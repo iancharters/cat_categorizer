@@ -1,0 +1,5 @@
+duckduckgo-search=2.8.5
+fastai=2.7.12
+fastcore=1.5.29
+fastdownload=0.0.7
+gradio=3.24.1
