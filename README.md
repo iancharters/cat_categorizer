@@ -1,6 +1,6 @@
 ---
-title: Testeroo
-emoji: 🏃
+title: Cat Categorizer
+emoji: 🐱
 colorFrom: indigo
 colorTo: blue
 sdk: gradio
